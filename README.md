@@ -1,5 +1,4 @@
 ## Heyo!👋 I'm zaynethedev!
-
-Here are some ideas to get you started:
+I make Gorilla Tag mods, and other shtuff sometimes.
 
 - 🔭 I’m currently working on GorillaMirror/CustomPlatformManager
