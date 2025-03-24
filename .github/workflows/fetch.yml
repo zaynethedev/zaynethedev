@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Get repository metrics
     steps:
-      - uses: paritytech/metrics@main
+      - uses: zaynethedev/Index@main
         name: Fetch metrics
         with:
           GITHUB_TOKEN: ${{ github.token }}
-          owner: paritytech
-          repo: metrics
+          owner: zaynethedev
+          repo: Index
